@@ -10,7 +10,7 @@ contentdir      = "content"
   title       = "Abraham Laria Blog"
   subtitle    = "Thougts on software construction and leadership"
 
-  cover       = "uploads/23.jpg"
+  cover       = "uploads/cover.jpg"
   description = "Here is a description of your site."
   metaDescription = ""
   googleAnalytics = ""
