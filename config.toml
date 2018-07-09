@@ -4,6 +4,7 @@ languageCode    = "en-US"
 disqusShortname = "abrahamlaria"
 paginate        = 6
 contentdir      = "content"
+enableRobotsTXT = true
 #SectionPagesMenu = "main"
 
 [params]
