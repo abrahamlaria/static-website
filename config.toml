@@ -14,7 +14,7 @@ enableRobotsTXT = true
   cover       = "uploads/cover.jpg"
   description = "Here is a description of your site."
   metaDescription = ""
-  googleAnalytics = ""
+  googleAnalytics = "UA-31663616-1"
   customCSS = []
   RSSLink = ""
 
