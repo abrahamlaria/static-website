@@ -6,7 +6,6 @@ image: "uploads/PostBg.jpg"
 type: "post"
 tags: [
     "algorithms",
-    "C#",
 ]
 categories: [
     "development",
