@@ -12,9 +12,11 @@ categories: [
 ]
 ---
 Solution to counting the number of characters in a given string that are at the same position on the English alphabet. C#
+
 ## Problem
 
 Given a string count he number of characters that are at the same position on the English alphabet.
+
 ### Example
 
 Input:
