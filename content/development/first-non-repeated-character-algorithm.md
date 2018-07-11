@@ -1,5 +1,5 @@
 ---
-title: "First Non Repeating Character Algorithm"
+title: "First Non Repeated Character Algorithm"
 date: 2018-07-11T00:11:54-07:00
 draft: false
 image: "uploads/PostBg.jpg"
