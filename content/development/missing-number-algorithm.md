@@ -1,7 +1,7 @@
 ---
 title: "Missing Number Algorithm"
 date: 2018-07-11T00:06:14-07:00
-draft: false
+draft: true
 image: "uploads/PostBg.jpg"
 type: "post"
 tags: [
