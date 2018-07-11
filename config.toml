@@ -12,7 +12,7 @@ enableRobotsTXT = true
   subtitle    = "Thougts on software construction and leadership"
 
   cover       = "uploads/cover.jpg"
-  description = "Here is a description of your site."
+  description = "Abraham Laria's Blog about software architecture, coding and management."
   metaDescription = ""
   googleAnalytics = "UA-31663616-1"
   customCSS = []
