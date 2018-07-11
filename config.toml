@@ -51,12 +51,12 @@ enableRobotsTXT = true
 
 [[menu.main]]
   name = "Architecture"
-  url = "/categories/architecture/"
+  url = "/architecture/"
   weight = 100
 
 [[menu.main]]
   name = "Development"
-  url = "/categories/development/"
+  url = "/development/"
   weight = 99
 
 [[menu.main]]
