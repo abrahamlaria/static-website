@@ -70,7 +70,7 @@ namespace CountCharacters
 
 ## Solution using XOR operations
 
-```
+```C#
 namespace CountCharacters
 {
     class Program
