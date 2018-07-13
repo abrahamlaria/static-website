@@ -1,2 +1,5 @@
 # Redirect default Netlify subdomain to primary domain
 https://objective-jepsen-a41401.netlify.com/* https://www.abrahamlaria.com/:splat 301!
+
+# Old website redirects
+https://www.abrahamlaria.com/acerca/* https://www.abrahamlaria.com/:splat 301!
