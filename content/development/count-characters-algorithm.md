@@ -33,7 +33,7 @@ Output:
 
 ## Solution
 
-```
+```C#
 namespace CountCharacters
 {
     class Program
