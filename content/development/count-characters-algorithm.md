@@ -33,7 +33,7 @@ Output:
 
 ## Solution
 
-<pre><code>
+```csharp
 namespace CountCharacters
 {
     class Program
@@ -66,7 +66,7 @@ namespace CountCharacters
         }
     }
 }
-</pre></code>
+```
 
 ## Solution using XOR operations
 
