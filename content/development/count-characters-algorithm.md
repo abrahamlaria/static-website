@@ -33,7 +33,7 @@ Output:
 
 ## Solution
 
-```C#
+```csharp
 namespace CountCharacters
 {
     class Program
