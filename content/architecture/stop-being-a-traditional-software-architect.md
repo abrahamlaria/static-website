@@ -21,7 +21,7 @@ I’m on an auto-imposed journey to become a solution architect or manager and, 
 
 During my yet-to-be-finished journey I have come across and read many books about Software Architecture. I’m going to be dumping what I have learned from them in a series of posts as a way to help others and also as a future reference for myself.
 
-One of those books that changed my perception of the Software Architect role and truly inspired me is **Design It!**  By consistently applaying what I learned from it I have become a better team leader and software engineer. 
+One of those books that changed my perception of the Software Architect role, and truly inspired me, is **Design It!**  By consistently applaying what I learned from it I have become a better team leader and software engineer. 
 
 What you are about to read is not a full copy-paste from the book, but the idea is pretty close to what you can read on its Chapter 13. 
 ## Empower the Architects on your team
