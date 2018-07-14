@@ -19,9 +19,9 @@ I’m on an auto-imposed journey to become a solution architect or manager and, 
 
 During my yet-to-be-finished journey I have come across and read many books about Software Architecture. I’m going be dumping what I have learned from them in this blog as a way to help others and also as a future reference for myself.
 
-One of those books that changed my perception of the Software Architect role is Design It! It truly inspired me and made me a better team leader by applying what I learned from it. 
+One of those books that changed my perception of the Software Architect role is **Design It!** It truly inspired me and made me a better team leader by applying what I learned from it. 
 
-What you are about to read is not a full copy-paste from the book, but the idea is pretty close to what you can read on it. 
+What you are about to read is not a full copy-paste from the book, but the idea is pretty close to what you can read on its Chapter 13. 
 ## Empower the Architects on your team
 
 On modern software system there is little difference between a developer and architect. I mean, software development team do require technical leaders. However, modern teams require a different kind of leader than the usual, top-down architect.
@@ -41,4 +41,4 @@ Architects build skills and improve trust while staying a few steps ahead of the
 <a target="_blank"  href="https://www.amazon.com/gp/product/1680502093/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1680502093&linkCode=as2&tag=alaria-20&linkId=5f464cbf0ed658f9512a117920030fe6"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1680502093&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=alaria-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=alaria-20&l=am2&o=1&a=1680502093" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <span style="font-size: 12px; line-height: normal;">**Reference:** Michael Keeling, __Design It!__, 2017, Pragmatic Bookshelf.</span>
 
-<span style="font-size: 12px; line-height: normal;">**Disclaimer:** The image above contains my Amazon affiliate link. If you buy the book from it I will receive a small commission that will go in full towards covering the cost of maintaining my website. However the content of this post is my honest opinion. In no way it is influenced by any possible sell. I'm also a proud owner of a copy of this book, for which a paid full price.</span>
+> <span style="font-size: 12px; line-height: normal;">**Disclaimer:** The image above contains my Amazon affiliate link. If you buy the book from it I will receive a small commission that will go in full towards covering the cost of maintaining my website. However the content of this post is my honest opinion. In no way it is influenced by any possible sell. I'm also a proud owner of a copy of the book, for which a paid full price.</span>
