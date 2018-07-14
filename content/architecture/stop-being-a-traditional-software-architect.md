@@ -37,6 +37,8 @@ When everyone on the team can participate on the architecture design process the
 It is important to note that not everyone is ready to accept design responsibilities. It is the job of the architect to nurture the team skills while designing the architecture with them at the same time. This can be accomplished by providing enough guidance without requiring the architect overseeing every design decision.
 
 Architects build skills and improve trust while staying a few steps ahead of the team, so they can prevent them from making mistakes. Empowering team members while at the same time designing an appropriate architecture lets the team ship better and value-adding software for the stakeholders.
+
+<span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">INSPIRATION DAY</span>
  
 
 
