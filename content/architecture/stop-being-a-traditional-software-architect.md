@@ -13,6 +13,8 @@ categories: [
 ---
 A better and more efficient approach to design Software Architectures.
 <!--more-->
+## Problem
+
 I’m on an auto-imposed journey to become a solution architect or manager and, in the process, a better developer. I have been getting ready for it for a couple years by improving my “soft skills” as well as my technological ones. 
 
 During my yet-to-be-finished journey I have come across and read many books about Software Architecture. I’m going be dumping what I have learned from them in this blog as a way to help others an also as a reference for myself.
