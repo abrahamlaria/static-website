@@ -17,7 +17,7 @@ A better and more efficient approach to design Software Architectures.
 
 I’m on an auto-imposed journey to become a solution architect or manager and, in the process, a better developer. I have been getting ready for it for a couple years by improving my “soft skills” as well as my technological ones. 
 
-During my yet-to-be-finished journey I have come across and read many books about Software Architecture. I’m going be dumping what I have learned from them in this blog as a way to help others and also as a future reference for myself.
+During my yet-to-be-finished journey I have come across and read many books about Software Architecture. I’m going to be dumping what I have learned from them in a series of posts as a way to help others and also as a future reference for myself.
 
 One of those books that changed my perception of the Software Architect role is **Design It!** It truly inspired me and made me a better team leader by applying what I learned from it. 
 
