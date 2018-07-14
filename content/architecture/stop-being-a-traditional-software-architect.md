@@ -38,9 +38,9 @@ It is important to note that not everyone is ready to accept design responsibili
 
 Architects build skills and improve trust while staying a few steps ahead of the team, so they can prevent them from making mistakes. Empowering team members while at the same time designing an appropriate architecture lets the team ship better and value-adding software for the stakeholders.
 
-<span style="font-size: 14px;">**Reference:** </span>
+<span style="font-size: 14px; margin: 0;">**Reference:** </span>
 
-<span style="font-size: 12px;">Michael Keeling, __Design It!__, 2017, Pragmatic Bookshelf.</span>
+<span style="font-size: 12px; margin: 0;">Michael Keeling, __Design It!__, 2017, Pragmatic Bookshelf.</span>
 
 
 
