@@ -6,6 +6,8 @@ image: "uploads/Architecture.jpg"
 type: "post"
 tags: [
     "software architecture",
+    "software architect",
+    "Design It!",
 ]
 categories: [
     "architecture",
