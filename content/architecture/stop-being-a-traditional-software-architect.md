@@ -20,7 +20,7 @@ During my yet-to-be-finished journey I have come across and read many books abou
 One of those books that changed my perception of the Software Architect role is Design It! It truly inspired me and made me a better team leader by applying what I learned from it. I’ll let you judge its approach to designing architectures and the architect role. 
 
 What you are about to read is not a total copy from the book, but the idea is pretty close to what you can read on it. 
-----
+
 On modern software system there is little difference between a developer and architect. I mean, software development team do require technical leaders. However, modern teams require a different kind of leader than the usual, top-down architect.
 
 Modern architects design along their team members not for them and by doing that they contribute to grow and empower the team while designing great software together.
