@@ -2,7 +2,7 @@
 title: "Count Characters Algorithm"
 date: 2018-07-10T23:39:09-07:00
 draft: false
-image: "uploads/PostBg.jpg"
+image: "uploads/Algorithms.jpg"
 type: "post"
 tags: [
     "algorithms",

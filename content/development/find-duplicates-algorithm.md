@@ -2,7 +2,7 @@
 title: "Find Duplicates Algorithm"
 date: 2018-07-11T00:20:03-07:00
 draft: false
-image: "uploads/PostBg.jpg"
+image: "uploads/Algorithms.jpg"
 type: "post"
 tags: [
     "algorithms",

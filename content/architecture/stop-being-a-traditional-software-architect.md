@@ -2,7 +2,7 @@
 title: "Stop being a traditional Software Architect"
 date: 2018-07-13T17:21:02-07:00
 draft: false
-image: "uploads/PostBg.jpg"
+image: "uploads/Algorithms.jpg"
 type: "post"
 tags: [
     "software architecture",
