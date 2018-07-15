@@ -45,7 +45,7 @@ Output:
 
 ## Solution
 
-```csharp
+<pre><code class="cs">
 using System;
 
 namespace FindDuplicates
@@ -80,4 +80,4 @@ namespace FindDuplicates
         }
     }
 }
-```
+</pre></code>
