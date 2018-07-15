@@ -5,5 +5,3 @@ draft: true
 image: ""
 type: "post"
 ---
-
-djghghjfklgjfkgjf;kgjf;g
