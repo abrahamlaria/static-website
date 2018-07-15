@@ -85,3 +85,7 @@ Great architects are also great leaders, who can guide development teams through
 10. **Get along with people**
 
   > “The most important single ingredient in the formula of success is knowing how to get along with people.” - Theodore Roosevelt.
+
+  ***
+
+  <span style="font-size: 12px; line-height: normal;">**Reference:** Neal Ford, Mark Richards, Brian Foster, **_Software Architecture Fundamentals:_** _Leadership Skills for Software Architects_, 2017, Part 4, O'Reilly Media Inc.</span>
