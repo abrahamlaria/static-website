@@ -5,7 +5,7 @@ disqusShortname = "abrahamlaria"
 paginate        = 6
 contentdir      = "content"
 enableRobotsTXT = true
-hjsStyle = "Darcula"
+#hjsStyle = "Darcula"
 #SectionPagesMenu = "main"
 
 [params]
