@@ -45,7 +45,7 @@ Output:
 
 ## Solution
 
-<pre><code class="cs">
+<pre><code class="csharp">
 using System;
 
 namespace FindDuplicates
@@ -55,12 +55,7 @@ namespace FindDuplicates
         public static void FindDuplicates(int[] arr, int size)
         {
             for (var i = 0; i < size-1; i++)
-            {
-                /*var position = i;
-                var element = arr[position];
-                var abs = Math.Abs(element);
-                var sign = arr[abs];*/ //Code to help debug it.
-                
+            {                
                 if (arr[Math.Abs(arr[i])] >= 0)
                 {
                     arr[Math.Abs(arr[i])] = -arr[Math.Abs(arr[i])];                  
