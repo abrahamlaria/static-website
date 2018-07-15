@@ -65,7 +65,7 @@ Great architects are also great leaders, who can guide development teams through
 
   * Make decisions.
 
-  >  There’s nothing more less effective and frustrating than an architect that can’t make decisions.
+  >  There’s nothing less effective and nothing more frustrating than an architect that can’t make decisions.
 
   * Make sure you can justify your decisions based on the information you currently have. Also make sure that the information you have is enough to make an informed decision.
 
