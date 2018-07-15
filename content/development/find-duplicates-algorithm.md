@@ -45,7 +45,7 @@ Output:
 
 ## Solution
 
-<pre><code class="csharp">
+<pre><code class="language-cs">
 using System;
 
 namespace FindDuplicates
