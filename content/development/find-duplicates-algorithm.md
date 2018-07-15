@@ -45,9 +45,8 @@ Output:
 
 ## Solution
 
-<pre><code class="language-cs">
+<pre><code>
 using System;
-
 namespace FindDuplicates
 {
     class Program
@@ -75,4 +74,4 @@ namespace FindDuplicates
         }
     }
 }
-</pre></code>
+</code></pre>
