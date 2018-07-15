@@ -53,7 +53,7 @@ There is not duplicated numbers in the array.
 
 ## Solution
 
-```
+```csharp
 using System;
 using System.Collections.Generic;
 

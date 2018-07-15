@@ -42,7 +42,7 @@ It can be proved by mathematical induction.
 
 ## Solution
 
-```
+```csharp
 namespace MissingNumber
 {
     class Program

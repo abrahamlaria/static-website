@@ -45,7 +45,7 @@ Output:
 
 ## Solution
 
-```
+```csharp
 using System;
 
 namespace FindDuplicates

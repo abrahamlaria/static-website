@@ -60,7 +60,7 @@ Output:
 
 ## Solution
 
-```
+```csharp
 using System;
 using System.Collections.Generic;
 
@@ -112,7 +112,7 @@ This solution replaces the Foreach block on the first solution by using Contains
 because it goes twice over the dictionary before returning the character. Also, the use of ContainsValue() is not an improve
 ment over Foreach. They are both O(n).
 
-```
+```csharp
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -158,7 +158,7 @@ namespace FirstNotRepeatingCharacter
 
 ### Constraints
 
-```
-The string contains only lowercase English letters.
+```csharp
+//The string contains only lowercase English letters.
 1 <= string.Length <= 10^5
 ```
