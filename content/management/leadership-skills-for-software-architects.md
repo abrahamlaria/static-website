@@ -49,7 +49,7 @@ Great architects are also great leaders, who can guide development teams through
 4. **Lead by example not by title**
 
   * Just because you have the title of architect doesn’t mean people will follow you – you have to gain their respect.
-  * As the architect, make sure you have the necessary technical skills to do anyone’s job on the team. However, if you have to do it make it clear to the management why you are doing it. You don’t want to lose the perception of being an architect.
+  * As the architect, make sure you have the necessary technical skills to do anyone’s job on the team. However, if you have to do it, make it clear to the management why you are doing it. You don’t want to lose the perception of being an architect.
   * Sitting down with the team and developing code with them is a fast way of gaining respect.
 
 5. **Share the credit**
