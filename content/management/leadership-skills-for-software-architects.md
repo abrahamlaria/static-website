@@ -16,6 +16,7 @@ Simple, common sense tips and techniques, to allow you to become an effective le
 <!--more-->
 # What is being an effective leader as a Software Architect?
 Great architects are also great leaders, who can guide development teams through the technical implementation of the architecture. here are some general tips to help you become a better team leader.
+
 1. Become the technical and business domain goto person.
 
 2. Help clear roadblocks so the team can move forward.
@@ -29,4 +30,4 @@ Great architects are also great leaders, who can guide development teams through
 ## Leadership techniques.
 1. Keep it simple.
 
-...Clarity and simplicity are two of the keys to successful leadership.
+   . . .Clarity and simplicity are two of the keys to successful leadership.
