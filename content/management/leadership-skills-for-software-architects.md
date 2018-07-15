@@ -30,4 +30,4 @@ Great architects are also great leaders, who can guide development teams through
 ## Leadership techniques.
 1. Keep it simple.
 
-   . . .Clarity and simplicity are two of the keys to successful leadership.
+  * Clarity and simplicity are two of the keys to successful leadership.
