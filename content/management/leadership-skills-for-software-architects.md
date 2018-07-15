@@ -37,7 +37,7 @@ Great architects are also great leaders, who can guide development teams through
 
 2. **Be pragmatic yet visionary**
 
-  * > **Pragmatic:** Deal with sensibly and realistically in a way that is based on practical rather than theoretical considerations.
+  > **Pragmatic:** Deal with sensibly and realistically in a way that is based on practical rather than theoretical considerations.
   * Being a visionary is great but make sure you strike the right balance and not being over theoretical and vague.
   * Aim for success not perfection. Sometimes you need to accept tradeoffs in order to make something work for your particular situation.
 
@@ -63,7 +63,7 @@ Great architects are also great leaders, who can guide development teams through
 7. **Be decisive but not careless**
 
   * Make decisions.
-  * >  There’s nothing more less effective and frustrating than an architect that can’t make decisions.
+  >  There’s nothing more less effective and frustrating than an architect that can’t make decisions.
   * Make sure you can justify your decisions based on the information you currently have. Also make sure that the information you have is enough to make an informed decision.
 
 8. **Integrate with the development team**
@@ -81,4 +81,4 @@ Great architects are also great leaders, who can guide development teams through
 
 10. **Get along with people**
 
-  * > “The most important single ingredient in the formula of success is knowing how to get along with people.” - Theodore Roosevelt.
+  > “The most important single ingredient in the formula of success is knowing how to get along with people.” - Theodore Roosevelt.
