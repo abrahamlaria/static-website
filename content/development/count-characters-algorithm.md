@@ -16,6 +16,7 @@ Solution to counting the number of characters in a given string that are at the 
 ## Problem
 
 Given a string count he number of characters that are at the same position on the English alphabet.
+
 Check the complete project on my [Github](https://github.com/abrahamlaria/count-characters)
 
 ### Example

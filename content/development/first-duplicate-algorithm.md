@@ -20,6 +20,8 @@ Given an array that contains only numbers in the range 1 to array.Length, find t
 
 **Note:** Write a solution with O(n) time complexity and O(1) additional space complexity.
 
+Check the complete project on my [Github](https://github.com/abrahamlaria/first-duplicate)
+
 ### Example
 
 Input:

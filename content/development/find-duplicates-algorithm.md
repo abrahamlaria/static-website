@@ -16,8 +16,9 @@ Solution to the "Find Duplicates" problem in C#
 <!--more-->
 ## Problem
 
-Given an array of n elements which contains elements from 0 to n-1, with any of these numbers appearing any number of times.
-Find these repeating numbers in O(n) and using only constant memory space.
+Given an array of n elements which contains elements from 0 to n-1, with any of these numbers appearing any number of times. Find these repeating numbers in O(n) and using only constant memory space.
+
+Check the complete project on my [Github](https://github.com/abrahamlaria/find-duplicates)
 
 ### Example
 

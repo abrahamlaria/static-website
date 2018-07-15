@@ -17,6 +17,8 @@ Solution to finding the missing number problem in C#
 
 Given a list of n-1 integers in the range of 1 to n. There are no duplicates in the list. One of the integers is missing in the list. Find it!
 
+Check the complete project on my [Github](https://github.com/abrahamlaria/missing-number)
+
 ### Example
 
 Input:
