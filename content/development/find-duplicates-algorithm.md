@@ -45,7 +45,7 @@ Output:
 
 ## Solution
 
-<pre><code>
+<pre><code class="language-cs">
 using System;
 namespace FindDuplicates
 {
