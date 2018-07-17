@@ -6,7 +6,8 @@ image: "uploads/Management.jpg"
 type: "post"
 tags: [
     "team management",
-    "leadership"
+    "leadership",
+    "management"
 ]
 categories: [
     "management",
