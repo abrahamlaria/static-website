@@ -9,7 +9,7 @@ enableRobotsTXT = true
 #SectionPagesMenu = "main"
 
 [params]
-  title       = "Abraham Laria Blog"
+  title       = "The Coder One"
   subtitle    = "Thougts on software construction and leadership"
 
   cover       = "uploads/cover.jpg"
@@ -29,7 +29,7 @@ enableRobotsTXT = true
   logo = ""
   orgName = "AL"
   orgWebsite = "https://abrahamlaria.com"
-  orgDescription = "Here is a description placeholder for your org"
+  orgDescription = ""
 
   author = "Abraham Laria"
   authorAvatar = "uploads/avatar.png"
