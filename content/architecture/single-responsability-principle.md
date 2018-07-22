@@ -110,7 +110,7 @@ Hopefully this post helped you to better understand the S part of the SOLID word
 
 ***
 
-<span style="font-size: 12px; line-height: normal;">**References:**</span>
-<span style="font-size: 12px; line-height: normal;">Dino Esposito, Andrea Saltarello, **_Microsoft .Net:_** _Architecting Applications for the Enterprise_, 2014, Pg 65, Microsoft Press.</span>
-<span style="font-size: 12px; line-height: normal;">Wikipedia, <a href="https://en.wikipedia.org/wiki/SOLID">**_SOLID_**</a></span>
+<span style="font-size: 12px; line-height: normal;">**References:**</span></br>
+<span style="font-size: 12px; line-height: normal;">Dino Esposito, Andrea Saltarello, **_Microsoft .Net:_** _Architecting Applications for the Enterprise_, 2014, Pg 65, Microsoft Press.</span></br>
+<span style="font-size: 12px; line-height: normal;">**Wikipedia:**<a href="https://en.wikipedia.org/wiki/SOLID"> _SOLID_</a></span>
 
