@@ -24,7 +24,6 @@ A responsibility is a reason to change. The principle says:
 
 > A class should have one, and only one, reason to change.
 
-
 The idea is that each class should be built around one core task. Let’s say a class has methods A () and B (). A single change to method A () would require a recompile of method B () which hasn’t been changed. 
 
 A common visual example when explaining SRP is a Swiss Knife. It has tools for everything but if for some reason one of the tools needs to be replaced you have to dismantle the whole set.
@@ -108,4 +107,10 @@ public class Door : IDoor
 Now that you understand the SRP I'll give you a word of caution, SRP should be taken to the limit. Yes, your classes should be as simple as possible and focus on a main core task. But you still need places to accommodate all the logic that the system requires. Avoid creating classes that are all properties with little or no behavior.
 
 Hopefully this post helped you to better understand the S part of the SOLID word. Let me know your opinion.
+
+***
+
+<span style="font-size: 12px; line-height: normal;">**References:**</span>
+<span style="font-size: 12px; line-height: normal;">Dino Esposito, Andrea Saltarello, **_Microsoft .Net:_** _Architecting Applications for the Enterprise_, 2014, Pg 65, Microsoft Press.</span>
+<span style="font-size: 12px; line-height: normal;">Wikipedia, <a href="https://en.wikipedia.org/wiki/SOLID">**_SOLID_**</a></span>
 
