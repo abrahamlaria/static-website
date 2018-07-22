@@ -7,7 +7,7 @@ type: "post"
 tags: [
     "software architecture",
     "solid",
-    "single sesponsability principle",
+    "single responsability principle",
 ]
 categories: [
     "architecture",
