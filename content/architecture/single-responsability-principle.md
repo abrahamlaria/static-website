@@ -109,8 +109,10 @@ Now that you understand the SRP I'll give you a word of caution, SRP should be t
 Hopefully this post helped you to better understand the S part of the SOLID word. Let me know your opinion.
 
 ***
-
+<a target="_blank" href="https://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=alaria-20&keywords=9780735685352&index=aps&camp=1789&creative=9325&linkCode=ur2&linkId=7cf9a312f2007e71ee21047cf613eb29">9780735685352</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=alaria-20&l=ur2&o=1&camp=1789" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <span style="font-size: 12px; line-height: normal;">**References:**</span></br>
 <span style="font-size: 12px; line-height: normal;">Dino Esposito, Andrea Saltarello, **_Microsoft .Net:_** _Architecting Applications for the Enterprise_, 2014, Pg 65, Microsoft Press.</span></br>
 <span style="font-size: 12px; line-height: normal;">**Wikipedia:**<a href="https://en.wikipedia.org/wiki/SOLID"> _SOLID_</a></span>
+
+> <span style="font-size: 12px; line-height: normal;">**Disclaimer:** The image above contains my Amazon affiliate link. If you buy the book from it, I will receive a small commission that will go towards covering the cost of this website. However, the content of this post is my honest opinion, and in no way it is influenced by any possible sell. I'm also a proud owner of a copy of the book, for which a paid full price.</span>
 
