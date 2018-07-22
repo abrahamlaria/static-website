@@ -104,7 +104,7 @@ public class Door : IDoor
 }
 ~~~
 
-Now that you understand the SRP I'll give you a word of caution, SRP should be taken to the limit. Yes, your classes should be as simple as possible and focus on a main core task. But you still need places to accommodate all the logic that the system requires. Avoid creating classes that are all properties with little or no behavior.
+Now that you understand the SRP I'll give you a word of caution, SRP should NOT be taken to the limit. Yes, your classes should be as simple as possible and focus on a main core task. But you still need places to accommodate all the logic that the system requires. Avoid creating classes that are all properties with little or no behavior.
 
 Hopefully this post helped you to better understand the S part of the SOLID word. Let me know your opinion.
 
