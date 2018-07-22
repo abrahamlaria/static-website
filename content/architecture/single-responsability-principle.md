@@ -18,8 +18,12 @@ A class should have one, and only one, reason to change.
 # Intro
 
 In object-oriented computer programming, the term SOLID is an acronym for five design principles intended to make software designs more understandable, flexible and maintainable. The principles are a subset of many principles promoted by **Robert C. Martin**. The theory of **SOLID** principles was introduced by Martin in his 2000 paper Design Principles and Design Patterns, although the SOLID acronym itself was introduced later by **Michael Feathers**.
-
 ## Single Responsibility Principle (SRP)
+
+A responsibility is a reason to change. The principle says:
+
+> A class should have one, and only one, reason to change.
+
 
 The idea is that each class should be built around one core task. Let’s say a class has methods A () and B (). A single change to method A () would require a recompile of method B () which hasn’t been changed. 
 
