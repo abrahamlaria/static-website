@@ -1,7 +1,7 @@
 ---
 title: "Architecting for the Enterprise: Single Responsability Principle"
 date: 2018-07-22T10:10:21-07:00
-draft: true
+draft: false
 image: "uploads/Architecture.jpg"
 type: "post"
 tags: [
