@@ -1,6 +1,12 @@
+baseurl         = "https://www.abrahamlaria.com"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = "abrahamlaria"
+paginate        = 6
+contentdir      = "content"
+enableRobotsTXT = true
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
-<<<<<<< HEAD
 #SectionPagesMenu = "main"
 
 [params]
@@ -30,7 +36,7 @@ PygmentsStyle = "monokai"
   authorAvatar = "uploads/avatar.png"
   authorLocation = "Las Vegas, NV"
   authorWebsite = "https://abrahamlaria.com"
-  authorDescription = "Sr. Software Engineer. Aspiring Solution Architect, interested in Team Management."
+  authorDescription = "Sr. Software Engineer at Pinnacle Entertainment Inc. Aspiring Solution Architect, interested in Team Management."
 
   pageNotFoundTitle = "404 - Page not found"
 
@@ -45,50 +51,17 @@ PygmentsStyle = "monokai"
   url = "/"
   weight = 200
 
-=======
-baseurl = "https://www.abrahamlaria.com"
-contentdir = "content"
-disqusShortname = "abrahamlaria"
-enableRobotsTXT = true
-languageCode = "en-US"
-paginate = 6
-theme = "casper-two"
->>>>>>> 7cce6c60b00f68f5056eede0a2cc898174e097d4
 [[menu.main]]
-name = "Management"
-url = "/management/"
-weight = 1
+  name = "Architecture"
+  url = "/architecture/"
+  weight = 100
+
 [[menu.main]]
-name = "Development"
-url = "/development/"
-weight = 2
+  name = "Development"
+  url = "/development/"
+  weight = 99
+
 [[menu.main]]
-name = "Architecture"
-url = "/architecture/"
-weight = 3
-[params]
-RSSLink = ""
-author = "Abraham Laria"
-authorAvatar = "uploads/avatar.png"
-authorDescription = "Sr. Software Engineer at Pinnacle Entertainment Inc. Aspiring Solution Architect, interested in Team Management."
-authorLocation = "Las Vegas, NV"
-authorWebsite = "https://abrahamlaria.com"
-cover = "uploads/cover.jpg"
-customCSS = []
-description = "Abraham Laria's Blog about software architecture, coding and management."
-githubName = "abrahamlaria"
-googleAnalytics = "UA-31663616-1"
-linkedinName = "abrahamlaria"
-logo = ""
-mediumName = "abrahamlaria"
-metaDescription = ""
-orgDescription = ""
-orgName = "AL"
-orgWebsite = "https://abrahamlaria.com"
-pageNotFoundTitle = "404 - Page not found"
-singleViewStyle = "casper"
-subtitle = "Thougts on software construction and leadership"
-title = "The Coder One"
-twitterName = "abrahamlaria"
-[permalinks]
-post = "/:slug/"
+  name = "Management"
+  url = "/management/"
+  weight = 95
