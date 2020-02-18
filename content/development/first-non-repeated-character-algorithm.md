@@ -16,7 +16,7 @@ Solution to finding the "First Non Repeating Character" problem in C#
 <!--more-->
 ## Problem
 
-Given a string, find and return the first instance on a non-repeating character in it. If the is no such character, return "_".
+Given a string, find and return the first instance on a non-repeating character in it. If there is no such character, return "_".
 
 **Note:** Write a solution that only iterates over the string once and uses O(1) additional memory.
 
