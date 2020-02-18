@@ -7,10 +7,6 @@ tags:
 - algorithms
 categories:
 - development
-menu:
-  main:
-    name: Home
-    weight: 4
 draft: true
 
 ---
