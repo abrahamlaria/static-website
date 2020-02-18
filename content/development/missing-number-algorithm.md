@@ -1,15 +1,14 @@
 ---
-title: "Missing Number Algorithm"
-date: 2018-07-11T00:06:14-07:00
-draft: false
-image: "uploads/Algorithms.jpg"
-type: "post"
-tags: [
-    "algorithms",
-]
-categories: [
-    "development",
-]
+title: Missing Number Algorithm
+date: 2018-07-11T07:06:14.000+00:00
+image: uploads/Algorithms.jpg
+type: post
+tags:
+- algorithms
+categories:
+- development
+draft: true
+
 ---
 Solution to finding the missing number problem in C#
 <!--more-->

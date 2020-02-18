@@ -1,8 +1,12 @@
 ---
-title: "Development"
-date: 2018-07-10T23:36:49-07:00
+title: Development
+date: 2018-07-11T06:36:49.000+00:00
+image: ''
+menu:
+  main:
+    name: Home
+    weight: 4
 draft: true
-image: ""
----
 
+---
 testing 2432566
