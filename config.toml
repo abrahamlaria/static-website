@@ -1,5 +1,5 @@
 baseurl         = "https://www.abrahamlaria.com"
-theme           = "casper-two"
+theme           = ""
 languageCode    = "en-US"
 disqusShortname = "abrahamlaria"
 paginate        = 6
