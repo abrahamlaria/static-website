@@ -24,7 +24,7 @@ A responsibility is a reason to change. The principle says:
 
 > A class should have one, and only one, reason to change.
 
-The idea is that each class should be built around one core task. Let’s say a class has methods A () and B (). A single change to method A () would require a recompile of method B () which hasn’t been changed. 
+The idea is that each class should be built around one core task. Let’s say a class has methods A () and B (). A single change to method A () would require a recompile of method B () which hasn’t been changed.
 
 A common visual example when explaining SRP is a Swiss Knife. It has tools for everything but if for some reason one of the tools needs to be replaced you have to dismantle the whole set.
 
@@ -37,13 +37,13 @@ public class BarberShop
     {
         //Open the door if the time is equal to 9AM
     }
- 
+
     public void ServiceClient(Client client)
     {
         //Check if the shop is opened and then
         //service a client if there’s any
     }
- 
+
     public void CloseDoor()
     {
         //Close the door at 5:30PM
